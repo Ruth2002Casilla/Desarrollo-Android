@@ -1,4 +1,4 @@
-# Desarrollo-Android 🚀
+# Desarrollo-Android 📱
 
 
 Bienvenido a mi repositorio de **Desarrollo Android**, un espacio donde muestro mi progreso y dedicación en la creación de aplicaciones móviles con Kotlin. Aquí podrás explorar mis proyectos, ejemplos de código, y recursos que reflejan mi avance en el dominio del desarrollo en Android, abarcando desde conceptos básicos hasta técnicas avanzadas. ¡Espero que encuentres inspiración y valor en mi trabajo!
